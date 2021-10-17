@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stryz-0709
 - 👀 I’m interested in coding, music, art and programming!
 - 🌱 I’m currently learning in Computer Engineering and will be still learning:3
-- 📫 How to reach me - I don't know :(((
+- 📫 How to reach me - I'm available via Facebook, Gmail and Discord!!
 
 <!---
 stryz-0709/stryz-0709 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
